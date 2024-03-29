@@ -1,1 +1,1 @@
-This Repository contains Arduino codes for RC Cars including cars having Brushed motors with H-Brirge motor driver as well as Brushless motors having Bi-directional ESCs. Code for Transmitter is also included over here.
+This Repository contains Arduino codes for RC Cars including cars having Brushed motors with H-Bridge motor driver as well as Brushless motors having Bi-directional ESCs. Code for Transmitter is also included over here.
